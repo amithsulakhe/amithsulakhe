@@ -118,30 +118,6 @@ const amith = {
 
 <br/>
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=amithsulakhe&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7&text_color=FFFFFF" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=amithsulakhe&theme=radical&hide_border=true&background=0D1117&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7" />
-</div>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amithsulakhe&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=FFFFFF" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=amithsulakhe&theme=react-dark&hide_border=true&bg_color=0D1117&color=36BCF7&line=667EEA&point=36BCF7" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amithsulakhe&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" />
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br/>
-
 ## 💼 Professional Journey
 
 <table>
@@ -189,60 +165,6 @@ graph TD
 
 <br/>
 
-## 🌟 Featured Projects
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">Project Name 1</h3>
-<div align="center">
-<a href="https://github.com/amithsulakhe/project1" target="_blank">
-<img src="https://via.placeholder.com/400x200/36BCF7/FFFFFF?text=Your+Project+Screenshot" width="400" alt="Project 1"/>
-</a>
-<br><br>
-<p>
-<a href="https://github.com/amithsulakhe/project1" target="_blank">
-<img src="https://img.shields.io/badge/Code-View-blue?style=for-the-badge&logo=github"/>
-</a>
-<a href="https://project1-demo.com" target="_blank">
-<img src="https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=vercel"/>
-</a>
-</p>
-<p><strong>React, Node.js, MongoDB</strong> - Brief description of your awesome project</p>
-</div>
-</td>
-
-<td width="50%">
-<h3 align="center">Project Name 2</h3>
-<div align="center">
-<a href="https://github.com/amithsulakhe/project2" target="_blank">
-<img src="https://via.placeholder.com/400x200/667EEA/FFFFFF?text=Your+Project+Screenshot" width="400" alt="Project 2"/>
-</a>
-<br><br>
-<p>
-<a href="https://github.com/amithsulakhe/project2" target="_blank">
-<img src="https://img.shields.io/badge/Code-View-blue?style=for-the-badge&logo=github"/>
-</a>
-<a href="https://project2-demo.com" target="_blank">
-<img src="https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=vercel"/>
-</a>
-</p>
-<p><strong>Next.js, TypeScript, AWS</strong> - Brief description of your awesome project</p>
-</div>
-</td>
-</tr>
-</table>
-
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br/>
-
 ## 🤝 Let's Connect & Collaborate!
 
 <div align="center">
@@ -268,7 +190,7 @@ graph TD
 <td align="center" width="33%">
 <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="60"><br>
 <sub><b>🌐 Portfolio</b></sub><br>
-<a href="https://yourportfolio.com">
+<a href="https://amithrsulakhe.netlify.app/">
 <img src="https://img.shields.io/badge/Visit-Website-FF7139?style=for-the-badge&logo=firefox&logoColor=white"/>
 </a>
 </td>
@@ -279,24 +201,3 @@ graph TD
 
 <br/>
 
-<div align="center">
-
-### 💭 Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:667EEA&height=120&section=footer" />
-</div>
-
-<div align="center">
-  <h3>⭐ "Code is like humor. When you have to explain it, it's bad." ⭐</h3>
-  <p>
-    <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
-    <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" />
-  </p>
-  <p><i>💡 Open for freelance projects and collaborations | Let's build something amazing together!</i></p>
-</div>
