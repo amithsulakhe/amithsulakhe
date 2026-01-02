@@ -1,152 +1,302 @@
-<h1 align="center">Hi 👋, I'm Amith R Sulakhe</h1>
-<h3 align="center">Software Engineer | Full Stack MERN Developer | React & Next.js Specialist</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:667EEA&height=200&section=header&text=Amith%20R%20Sulakhe&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20|%20Full%20Stack%20Developer&descAlignY=55&descAlign=50" />
+</div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Software+Engineer;Full+Stack+MERN+Developer;React+%7C+Next.js+%7C+Node.js;Building+Scalable+Solutions;DevOps+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Software+Engineer+%F0%9F%9A%80;Full+Stack+MERN+Developer+%F0%9F%92%BB;React+%7C+Next.js+%7C+Node.js;Building+Scalable+Solutions+%E2%9A%A1;Open+Source+Enthusiast+%F0%9F%8C%9F" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/amith-r-sulakhe-056190230/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:amithsulakhe729@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <img src="https://komarev.com/ghpvc/?username=amithsulakhe&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amith-r-sulakhe-056190230/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amithsulakhe729@email.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://yourportfolio.com)
+![Profile Views](https://komarev.com/ghpvc/?username=amithsulakhe&label=Profile%20Views&color=blueviolet&style=for-the-badge)
 
----
+</div>
 
-## 👨‍💻 About Me
+<br/>
 
-```javascript
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br/>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px" height="32px"> About Me
+
+```typescript
 const amith = {
+    pronouns: "He" | "Him",
+    location: "Karnataka, India 🇮🇳",
     role: "Software Engineer",
-    location: "India 🇮🇳",
-    focus: ["Full Stack Development", "System Design", "Cloud Architecture"],
-    currentlyWorking: "Building scalable web applications",
-    technologies: {
-        frontend: ["React.js", "Next.js", "Redux", "Tailwind CSS"],
+    company: "Building Awesome Products",
+    
+    code: {
+        frontend: ["React", "Next.js", "Redux", "TypeScript", "TailwindCSS"],
         backend: ["Node.js", "Express.js", "REST APIs"],
-        database: ["MongoDB", "MySQL"],
-        devOps: ["AWS", "Nginx", "Docker"]
+        database: ["MongoDB", "MySQL", "Mongoose"],
+        devops: ["AWS", "Docker", "Nginx", "Linux"],
+        tools: ["Git", "VS Code", "Postman", "npm"]
     },
-    interests: ["System Design", "Performance Optimization", "Open Source"],
-    goals2024: "Contribute to open-source & master cloud architecture"
+    
+    architecture: ["Microservices", "Event-Driven", "Serverless", "SPA"],
+    currentFocus: "System Design & Cloud Architecture",
+    funFact: "I turn coffee into code ☕→ 💻"
 };
 ```
 
-- 🔭 Currently working on **scalable full-stack applications**
-- 🌱 Learning **advanced system design & microservices architecture**
-- 👯 Open to **collaboration on innovative web projects**
-- 💬 Ask me about **React, Next.js, Node.js, or MERN stack**
-- ⚡ Fun fact: **I debug in production (just kidding... or am I?)**
+<br/>
 
----
+<details open>
+<summary><b>🎯 What I'm Up To</b></summary>
+<br/>
 
-## 🛠️ Tech Stack
+- 🔭 Building **scalable full-stack applications** with MERN stack
+- 🌱 Deep diving into **System Design & Microservices Architecture**
+- 👯 Looking to collaborate on **innovative web projects**
+- 💡 Exploring **AWS Cloud Services** and serverless architectures
+- 🤝 Contributing to **Open Source** projects
+- 💬 Ask me about **React, Next.js, Node.js, System Design**
+- ⚡ Always learning, always coding!
 
-### Frontend Development
+</details>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br/>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" height="35"> Tech Stack
+
+<div align="center">
+
+### 🎨 Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 ![Shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
 
-### Backend Development
+### ⚙️ Backend
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6F00?style=for-the-badge&logo=postman&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 
-### Database
+### 🗄️ Database
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-### DevOps & Cloud
+### ☁️ DevOps & Cloud
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-### Tools & Version Control
+### 🛠️ Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
----
+</div>
 
-## 📊 GitHub Statistics
+<br/>
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=amithsulakhe&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=amithsulakhe&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br/>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=amithsulakhe&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7&text_color=FFFFFF" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=amithsulakhe&theme=radical&hide_border=true&background=0D1117&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7" />
+</div>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amithsulakhe&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=FFFFFF" />
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=amithsulakhe&theme=react-dark&hide_border=true&bg_color=0D1117&color=36BCF7&line=667EEA&point=36BCF7" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=amithsulakhe&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" />
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br/>
+
+## 💼 Professional Journey
+
+<table>
+<tr>
+<td width="50%">
+
+### 🚀 Current Role
+**Software Engineer**
+
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **Responsibilities:**
+- Building full-stack applications with MERN
+- Architecting scalable cloud solutions
+- Implementing CI/CD pipelines
+- Performance optimization & best practices
+- Code reviews & mentoring
+
+</td>
+<td width="50%">
+
+### 🎯 Learning Path
+
+```mermaid
+graph TD
+    A[Current: Software Engineer] --> B[System Design]
+    A --> C[Microservices]
+    A --> D[Cloud Architecture]
+    B --> E[Senior Engineer]
+    C --> E
+    D --> E
+```
+
+**Focus Areas:**
+- Advanced System Design
+- Distributed Systems
+- AWS Solutions Architect
+- Open Source Contributions
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br/>
+
+## 🌟 Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Project Name 1</h3>
+<div align="center">
+<a href="https://github.com/amithsulakhe/project1" target="_blank">
+<img src="https://via.placeholder.com/400x200/36BCF7/FFFFFF?text=Your+Project+Screenshot" width="400" alt="Project 1"/>
+</a>
+<br><br>
+<p>
+<a href="https://github.com/amithsulakhe/project1" target="_blank">
+<img src="https://img.shields.io/badge/Code-View-blue?style=for-the-badge&logo=github"/>
+</a>
+<a href="https://project1-demo.com" target="_blank">
+<img src="https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=vercel"/>
+</a>
 </p>
+<p><strong>React, Node.js, MongoDB</strong> - Brief description of your awesome project</p>
+</div>
+</td>
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amithsulakhe&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<td width="50%">
+<h3 align="center">Project Name 2</h3>
+<div align="center">
+<a href="https://github.com/amithsulakhe/project2" target="_blank">
+<img src="https://via.placeholder.com/400x200/667EEA/FFFFFF?text=Your+Project+Screenshot" width="400" alt="Project 2"/>
+</a>
+<br><br>
+<p>
+<a href="https://github.com/amithsulakhe/project2" target="_blank">
+<img src="https://img.shields.io/badge/Code-View-blue?style=for-the-badge&logo=github"/>
+</a>
+<a href="https://project2-demo.com" target="_blank">
+<img src="https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=vercel"/>
+</a>
 </p>
+<p><strong>Next.js, TypeScript, AWS</strong> - Brief description of your awesome project</p>
+</div>
+</td>
+</tr>
+</table>
 
----
+</div>
 
-## 🏆 GitHub Trophies
+<br/>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amithsulakhe&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
-</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
----
+<br/>
 
-## 📈 Contribution Graph
+## 🤝 Let's Connect & Collaborate!
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amithsulakhe&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
-</p>
+<div align="center">
 
----
+<p>I'm always excited to work on innovative projects and connect with fellow developers!</p>
 
-## 💼 Professional Experience
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <br>
+<sub><b>💼 Professional</b></sub><br>
+<a href="https://www.linkedin.com/in/amith-r-sulakhe-056190230/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+</td>
+<td align="center" width="33%">
+<img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="60"><br>
+<sub><b>📧 Email</b></sub><br>
+<a href="mailto:amithsulakhe729@email.com">
+<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</td>
+<td align="center" width="33%">
+<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="60"><br>
+<sub><b>🌐 Portfolio</b></sub><br>
+<a href="https://yourportfolio.com">
+<img src="https://img.shields.io/badge/Visit-Website-FF7139?style=for-the-badge&logo=firefox&logoColor=white"/>
+</a>
+</td>
+</tr>
+</table>
 
-**Software Engineer** | *Current Role*
-- 🚀 Developing and maintaining full-stack web applications using MERN stack
-- 🏗️ Architecting scalable solutions with modern design patterns
-- ☁️ Implementing cloud infrastructure and CI/CD pipelines
-- 🔧 Optimizing application performance and user experience
+</div>
 
----
+<br/>
 
-## 🎯 Current Focus
+<div align="center">
 
-- 📚 Deepening knowledge in **System Design & Architecture**
-- 🌐 Exploring **Microservices & Distributed Systems**
-- ☁️ Advancing **AWS Cloud Services & Infrastructure**
-- 🤝 Contributing to **Open Source Projects**
+### 💭 Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
+</div>
 
-## 📫 Let's Connect!
+<br/>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/amith-r-sulakhe-056190230/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
-  </a>
-  <a href="mailto:amithsulakhe729@email.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email">
-  </a>
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:667EEA&height=120&section=footer" />
+</div>
 
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer Wave" />
-</p>
-
-<h3 align="center">⭐ "Building the future, one commit at a time" ⭐</h3>
-
-<p align="center">
-  <i>💡 Open for interesting projects and collaborations!</i>
-</p>
+<div align="center">
+  <h3>⭐ "Code is like humor. When you have to explain it, it's bad." ⭐</h3>
+  <p>
+    <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
+    <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" />
+  </p>
+  <p><i>💡 Open for freelance projects and collaborations | Let's build something amazing together!</i></p>
+</div>
